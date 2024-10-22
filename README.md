@@ -1,15 +1,15 @@
-<h1>WELCOME!!! To My Git Hub Account </h1>
+<h1 align="center">WELCOME!!! To My Git Hub Account </h1>
 <p>
    Hi, i'm Mahesh, a passionate self-taught upcoming full stack web developer. Skilled in Team Motivation, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BCA focused in Web-Development from GD Memorial College where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems. 
 </p>
  
 
 
-● If you are interested in contacting me please [Email](maheshsuthar95888@gmail.com), or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh-suthar-934085206/).  
+• If you are interested in contacting me please [Email](maheshsuthar95888@gmail.com), or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh-suthar-934085206/).  
 
-● Finding creative solutions to problems is something I have always enjoyed  
+• Finding creative solutions to problems is something I have always enjoyed  
 
-● I’m looking to collaborate on open source projects
+• I’m looking to collaborate on open source projects
 
 ###
 
